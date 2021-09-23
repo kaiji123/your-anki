@@ -1,0 +1,2 @@
+rootProject.name = "YourAnki"
+include ':app'
